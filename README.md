@@ -1,2 +1,2 @@
 # vroomaboi.github.io
-My personally site for github
+My personal site for github
